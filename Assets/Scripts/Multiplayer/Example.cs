@@ -20,6 +20,12 @@ public class Example : MonoBehaviour
         //JsonUtility.FromJsonOverwrite(s, this);
 
 
+
+        ///llll
+        ///
+
+        //lll
+
         string path = Application.persistentDataPath  + "/filename.random";//"C:/";
         Debug.Log(path);
         Debug.Log(j);
